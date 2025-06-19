@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category": "Road Bikes",
+      "image": "https://spinride-data.vercel.app/assets/categories/01.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Electric Bikes",
+      "image": "https://spinride-data.vercel.app/assets/categories/02.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Mountain Bikes",
+      "image": "https://spinride-data.vercel.app/assets/categories/03.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Hybrid Bikes",
+      "image": "https://spinride-data.vercel.app/assets/categories/04.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Specialty Bikes",
+      "image": "https://spinride-data.vercel.app/assets/categories/05.jpg"
+    }
+  ]
+}
